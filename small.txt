@@ -1,0 +1,8 @@
+ant:emu,cat,hen
+bat:cat,gull
+dog:gull
+emu:fox,ant,bat,kob
+gull:dog,fox
+ibis:emu,jay,fox
+jay:gull,hen
+kob:jay,bat,lory
